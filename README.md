@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am an Electrical Engineering graduate with an interest in software development and IoT. An engineer at heart, I love challenges and looking for creative solutions to solve them. I work independently or in a team, am a determined problem-solver with a can-do spirit and never pass up on the chance to learn something new. I believe that technology can be used to improve people’s lives, and am excited by the potential of emerging technologies like IoT and machine learning to change the way we work and live.
 
 <!--
 **alvinhuhhh/alvinhuhhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
