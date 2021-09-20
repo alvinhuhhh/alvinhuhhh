@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi! I am an Electrical Engineering graduate with an interest in software development and IoT. 
+
+An engineer at heart, I enjoy the challenge of looking for creative solutions to complex problems. I work well independently or in a team, and am a determined problem-solver who believes that anything can be solved with time and effort, as well as never passing up on the chance to learn something new.
+
+I believe that technology can be used to better people’s lives, and am excited by the potential of emerging technologies such as machine learning and IoT to change the way we work and live.
