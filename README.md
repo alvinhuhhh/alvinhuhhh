@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi! I am an Electrical Engineering graduate with an interest in software development and IoT. 
+I am an electrical engineering graduate turned software developer with a focus on robust systems and an eye for good design.
 
 An engineer at heart, I enjoy the challenge of looking for creative solutions to complex problems. I work well independently or in a team, and am a determined problem-solver who believes that anything can be solved with time and effort, as well as never passing up on the chance to learn something new.
 
