@@ -18,5 +18,3 @@ Here are some ideas to get you started:
 I build software applications that embody both style and substance through a focus on functionality and good UI/UX design.
 
 An engineer at heart, I enjoy the challenge of looking for creative solutions to complex problems. I work well independently or in a team, and am a determined problem-solver who believes that anything can be solved with time and effort, as well as never passing up on the chance to learn something new.
-
-I believe that technology can be used to better people’s lives, and am excited by the potential of emerging technologies such as machine learning and IoT to change the way we work and live.
