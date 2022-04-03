@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I build software applications that embody both style and substance through a focus on functionality and good UI/UX design.
+Fresh grad Electrical Engineer turned Software Developer looking for opportunities to learn
+and grow. Tech enthusiast who loves to keep up with the latest technology and design
+trends.
 
 An engineer at heart, I enjoy the challenge of looking for creative solutions to complex problems. I work well independently or in a team, and am a determined problem-solver who believes that anything can be solved with time and effort, as well as never passing up on the chance to learn something new.
