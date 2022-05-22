@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Fresh grad Electrical Engineer turned Software Developer looking for opportunities to learn
-and grow. Tech enthusiast who loves to keep up with the latest technology and design
-trends.
+As a fresh grad electrical engineer turned software engineer, my interests lie in delivering great user experiences through good frontend design. I am fascinated by the ever-changing trends in design and their impact on the user and overall business outcomes.
 
 An engineer at heart, I enjoy the challenge of looking for creative solutions to complex problems. I work well independently or in a team, and am a determined problem-solver who believes that anything can be solved with time and effort, as well as never passing up on the chance to learn something new.
