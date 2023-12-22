@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Alvin
 
 <!--
 **alvinhuhhh/alvinhuhhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-As a fresh grad electrical engineer turned software engineer, my interests lie in delivering great user experiences through good frontend design. I am fascinated by the ever-changing trends in design and their impact on the user and overall business outcomes.
+# About Me
 
-An engineer at heart, I enjoy the challenge of looking for creative solutions to complex problems. I work well independently or in a team, and am a determined problem-solver who believes that anything can be solved with time and effort, as well as never passing up on the chance to learn something new.
+As an electrical engineer turned software engineer, my interests lie in delivering software solutions that makes life easier for businesses and end-users. As an aspiring software architect comfortable working across different tech stacks, I actively look for potential business problems that can be solved with software, as well as keep up with trends in the industry.
+
+An engineer at heart, I enjoy the challenge of formulating optimal solutions to complex problems. I work well both independently and in a team, and am a determined problem-solver that never gives up.
+
+# What I'm working on
+
+### [Alfred](https://t.me/alfred_tan_bot) 
+Telegram Bot that automates some family admin tasks. [GitHub](https://github.com/alvinhuhhh/alfred_tan_bot)
+
+# Software Skills
+
+- Angular
+- React
+- Java (Spring)
+- Node.js/Deno
+- Amazon Web Services
+- Pivotal Cloud Foundry
+- Supabase
+
+# Connect with me!
+
+[LinkedIn](https://www.linkedin.com/in/alvintan96/)
