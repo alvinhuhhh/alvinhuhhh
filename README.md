@@ -24,7 +24,7 @@ An engineer at heart, I enjoy the challenge of formulating optimal solutions to 
 # What I'm working on
 
 ### [Alfred](https://t.me/alfred_tan_bot) 
-Telegram Bot that automates some family admin tasks. [GitHub](https://github.com/alvinhuhhh/alfred_tan_bot)
+Telegram butler for the family. [GitHub](https://github.com/alvinhuhhh/alfred_tan_bot)
 
 # Software Skills
 
