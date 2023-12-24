@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 
 # About Me
 
-An electrical engineer turned software engineer, my interests lie in delivering software solutions that makes life easier for businesses and end-users. I actively look for potential business problems that can be solved with software, as well as keep up with trends in the industry.
-
-An engineer at heart, I enjoy the challenge of formulating optimal solutions to complex problems. I work well both independently and in a team, and am a determined problem-solver that never gives up.
+Electrical engineer turned software engineer in the banking industry. An avid explorer and experimenter, I enjoy learning and trying new software frameworks and technology stacks; looking for the most optimal solutions that bring the most business value to end-users.
 
 # What I'm working on
 
