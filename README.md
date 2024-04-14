@@ -21,9 +21,6 @@ Electrical engineer turned software engineer in the banking industry. An avid ex
 
 # What I'm working on
 
-### [Echoize](https://echoize.vercel.app)
-Product feedback made simple. [GitHub](https://github.com/alvinhuhhh/echoize)
-
 ### [Alfred](https://t.me/alfred_tan_bot) 
 Telegram butler for the family. [GitHub](https://github.com/alvinhuhhh/alfred_tan_bot)
 
