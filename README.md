@@ -24,15 +24,19 @@ Electrical engineer turned software engineer in the banking industry. An avid ex
 ### [Alfred](https://t.me/alfred_tan_bot) 
 Telegram butler for the family. [GitHub](https://github.com/alvinhuhhh/alfred_tan_bot)
 
+### [Divvy]()
+Effortless expense sharing
+
 # Software Skills
 
 - Angular
-- React
+- React/Next.js
 - Java (Spring)
 - Node.js/Deno
 - Amazon Web Services
 - Pivotal Cloud Foundry
 - Supabase
+- Fly.io
 
 # Connect with me!
 
