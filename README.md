@@ -31,6 +31,7 @@ Effortless expense sharing
 
 - Angular
 - React/Next.js
+- TailwindCSS
 - Java (Spring)
 - Node.js/Deno
 - Amazon Web Services
