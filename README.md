@@ -29,15 +29,21 @@ Effortless expense sharing
 
 # Software Skills
 
+- Java (Spring Boot)
 - Angular
 - React/Next.js
 - TailwindCSS
-- Java (Spring)
 - Node.js/Deno
+- PostgreSQL
+- MariaDB
+- Apache Druid
+- Apache ActiveMQ Artemis/RabbitMQ
 - Amazon Web Services
 - Pivotal Cloud Foundry
 - Supabase
 - Fly.io
+- Terraform
+- Kubernetes/Docker
 
 # Connect with me!
 
